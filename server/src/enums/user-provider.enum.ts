@@ -1,0 +1,5 @@
+export enum USER_PROVIDER_TYPE {
+  EMAIL = 'EMAIL',
+  GOOGLE = 'GOOGLE',
+  NAVER = 'NAVER'
+}
